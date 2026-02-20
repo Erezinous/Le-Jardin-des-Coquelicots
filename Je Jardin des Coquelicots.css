@@ -1,0 +1,9 @@
+@font-face {
+    font-family: 'Le Jardin des Coquelicots';
+    src: url('LeJardindesCoquelicots.woff2') format('woff2'),
+        url('LeJardindesCoquelicots.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
